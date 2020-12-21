@@ -1,0 +1,19 @@
+*{
+	text-align: center;
+}
+input{
+	padding: 5px;
+	margin: 10px;
+	direction: ltr;
+	outline: none;
+}
+hr{
+	width: 50%;
+}
+#profilepic{
+	background-color: grey;
+	border-radius: 10px;
+}
+#profile{
+	text-align: center;
+}
