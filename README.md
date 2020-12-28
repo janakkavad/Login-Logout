@@ -8,4 +8,4 @@ And there is option remember me during sign-in if you checked the box than in ca
 First of all download this zipped project, then extract all files under local server where we can execute php files for eg in my device location is 'C:\xampp\htdocs\Login-Logout-main'.
 Now, create an empty folder named 'fileuploads' under Login-Logout-main folder.
 Now to run this project start local server on your device. You can use any local server for example Xamp, Mamp, Wamp, etc.
-And then open 'index.html' file on any browser like this way: 'localhost/Login-Logout-main/index.html'.
+And then open 'index' file on any browser like this way: 'localhost/Login-Logout-main/index.php'.
